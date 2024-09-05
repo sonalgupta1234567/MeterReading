@@ -1,0 +1,15 @@
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.csproj.AssemblyReference.cache
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.AssemblyInfoInputs.cache
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.AssemblyInfo.cs
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.csproj.CoreCompileInputs.cache
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/bin/Debug/net8.0/MeterReading.Database.deps.json
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/bin/Debug/net8.0/MeterReading.Database.runtimeconfig.json
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/bin/Debug/net8.0/MeterReading.Database.dll
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/bin/Debug/net8.0/MeterReading.Database.pdb
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.dll
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/refint/MeterReading.Database.dll
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.pdb
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.genruntimeconfig.cache
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/ref/MeterReading.Database.dll
+/Users/sonal.gupta/code/meter_reading/meter_reading/MeterReading.Database/obj/Debug/net8.0/MeterReading.Database.sourcelink.json
